@@ -19,6 +19,7 @@ brew install go
 echo "Installing development tools..."
 brew install docker
 brew install kubernetes-cli
+brew install kind
 brew install git
 brew install basex
 brew install terraform
