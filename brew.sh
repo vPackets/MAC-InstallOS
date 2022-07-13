@@ -37,6 +37,7 @@ brew install azure-cli
 brew install geoip
 brew install gh
 brew install jq
+brew install asciinema
 brew install --cask github
 brew install --cask hyper 
 brew install --cask postman
